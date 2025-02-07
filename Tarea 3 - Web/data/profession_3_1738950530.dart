@@ -1,0 +1,1 @@
+a:5:{s:12:"id_personaje";s:1:"3";s:16:"nombre_profesion";s:36:"Tecnóloga en desarrollo de software";s:9:"categoria";s:26:"Ciencia de la computación";s:5:"nivel";s:8:"Avanzado";s:7:"salario";d:60000;}

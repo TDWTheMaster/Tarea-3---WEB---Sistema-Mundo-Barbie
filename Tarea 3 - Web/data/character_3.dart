@@ -1,0 +1,1 @@
+a:6:{s:14:"identificacion";s:1:"3";s:6:"nombre";s:8:"Barbie 3";s:8:"apellido";s:7:"Bonilla";s:16:"fecha_nacimiento";s:10:"2007-09-10";s:4:"foto";s:17:"3_1738950486.jpeg";s:3:"rol";s:9:"Tecnologa";}

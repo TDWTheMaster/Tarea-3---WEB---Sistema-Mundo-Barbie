@@ -1,0 +1,1 @@
+a:5:{s:12:"id_personaje";s:1:"2";s:16:"nombre_profesion";s:20:"Auxiliar Informatica";s:9:"categoria";s:7:"Ciencia";s:5:"nivel";s:10:"Intermedio";s:7:"salario";d:40000;}

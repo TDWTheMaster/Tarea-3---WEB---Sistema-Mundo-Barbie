@@ -1,0 +1,1 @@
+a:5:{s:12:"id_personaje";s:1:"1";s:16:"nombre_profesion";s:18:"Ayudante de doctor";s:9:"categoria";s:6:"Medica";s:5:"nivel";s:8:"Avanzado";s:7:"salario";d:30000;}
